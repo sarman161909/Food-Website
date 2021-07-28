@@ -1,0 +1,159 @@
+body{
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+
+}
+.top-section{
+    display: flex;
+    padding: 10px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+.half-width{
+    width: 50%;
+
+}
+.half-width p{
+    color:grey ;
+    font-size: 20px;
+    font-weight:normal;
+    margin-bottom: 50px;
+}
+.half-width a{
+    text-decoration: none;
+    background-color: orangered;
+    color: aliceblue;
+    border-radius: 60px;
+    padding: 12px;
+}
+
+.orange-color{
+    color:orange;
+}
+.half-width h1{
+    color: gray;
+    font-size: 40px;
+    margin-top: 30px;
+    
+}
+.half-width img{
+    width: 100%;
+}
+.Meddile-section{
+    display: flex;
+    padding: 10px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+.Meddile-section h1{
+    color: goldenrod;}
+
+.margin-bottom{
+    margin-top: 73px;
+}
+   
+.Contact-us{
+    text-decoration: none;
+    background-color: orangered;
+    color: aliceblue;
+    border-radius: 60px;
+    padding: 12px;
+
+}
+
+
+
+
+.Recipies{
+    text-align: center;
+    margin-top: 30px;
+}
+.Recipies h1{
+    color: green;
+    font-size:50px;
+}
+.Recipies p{
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    color:grey;
+    margin-bottom: 10px;
+}
+.Recipies-Item{
+    display: flex;
+    
+}
+
+.item-Details{
+    margin-top: 10px;
+    padding: 15px;
+    margin-right: 2%;
+    margin-left: 2%;
+    border-radius: 30px;
+    box-shadow:10px 10px 40px rgb(128, 124, 124);
+    margin-bottom: 10px;
+}
+.item-Details h2{
+    color:mediumblue;
+}
+.item-Details img{
+    width:100%;
+    text-align: center;
+    border-radius: 10px;
+}
+.order-areamap h1{
+    color: forestgreen;
+    text-align: center;
+
+    font-size:30px;
+    margin-top: 10px;
+    overflow: hidden;
+
+}
+.order-areamap img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.optional{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px rgb(37, 27, 27);
+    
+    margin-top:15px;
+    margin-bottom: 15px;
+    
+}
+.footer{
+    background-color: mediumslateblue;
+    padding: 10px;
+    margin-top: 5px;
+    text-align: center;
+}
+.footer h1{
+    color:firebrick;
+}
+.footer p{
+    color:greenyellow;
+}
+
+.center{
+    margin: auto;
+    text-align: center;
+}
+
+.center h2{
+    color:chocolate;
+}
+
+.center p{
+    color: gray;
+}
